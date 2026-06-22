@@ -1,6 +1,6 @@
-#The Samal Eco-Tourism Communication Prompt System#
+# The Samal Eco-Tourism Communication Prompt System #
 
-##1. System Prompt Template (V3 - Final Optimized)##
+## 1. System Prompt Template (V3 - Final Optimized) ##
 
 > "Act as a Senior Local Government Communications Strategist specializing in sustainable tourism development in the Davao Region. Your objective is to create a 350-word communication action plan for the Tourism Office of Island Garden City of Samal.
 
@@ -30,7 +30,7 @@ Every recommendation must explain how it benefits local communities, protects na
 
 ---
 
-##2. Prompt Battle Ledger##
+## 2. Prompt Battle Ledger ##
 
 Version	Prompt Modifier Added	Output Quality Reflection
 
@@ -42,7 +42,7 @@ V3	Added geographic lock, barangay-level stakeholders, Philippine English requir
 
 ---
 
-##3. Visual Branding Asset##
+## 3. Visual Branding Asset ##
 
 Engine Used: Canva Magic Media / DALL·E 3
 
@@ -76,7 +76,7 @@ Scalable for GitHub README, presentations, and official documentation
 
 ---
 
-##4. Reusability Notes##
+## 4. Reusability Notes ##
 
 This prompt system can be adapted to other Davao Region development priorities by replacing the geographic and sector-specific context:
 
